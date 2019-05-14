@@ -3,6 +3,8 @@
     display: flex;
     font-style: normal;
     font-family: "Roboto Condensed", sans-serif;
+
+
 }
 
 #header {
@@ -10,9 +12,12 @@
     display: flex;
     font-style: normal;
     font-family: "Roboto Condensed", sans-serif;
+    font-size: 50px;
+    margin: 20px;
 }
 
-.main {
-    justify-content: center;
+
+.container {
     display: flex;
+    justify-content: center;
 }
